@@ -1,0 +1,46 @@
+html{
+    scroll-behavior: smooth;
+}
+#menu{
+    text-align: center;
+}
+#ham1{
+    height: 400px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+}
+#ham2{
+    height: 400px;
+    width: 300px;
+    margin-right: 300px;
+    text-align: center;
+    font-size: 9px;
+    
+}
+#ham3{
+    height: 180px;
+    width: 300px;
+    text-align: center;
+}
+#omr1{
+    height: 400px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+}
+#omr2{
+    height: 400px;
+    width: 300px;
+    margin-right: 300px;
+    text-align: center;
+    font-size: 9px;
+    
+}
+#omr3{
+    height: 180px;
+    width: 300px;
+    text-align: center;
+}
